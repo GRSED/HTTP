@@ -1,15 +1,15 @@
 그림으로 배우는 HTTP & Network Basic
 ================================
 ## 1. 웹과 네트워크의 기본에 대해 알아보자
-    1. HyperText Transfer Protocol
-    2. TCP/IP
-        1. 인터넷과 관련된 프로토콜들의 집합
-        2. 4계층
+###    1. HyperText Transfer Protocol
+###    2. TCP/IP
+####        1. 인터넷과 관련된 프로토콜들의 집합
+####        2. 4계층
             1. 애플리케이션 - 사용자의 애플리케이션 레벨에서 사용하는 통신의 움직임을 규정 ex) FTP, DNS, HTTP
             2. 트랜스포트 - 네트워크로 연결되어 있는 2대의 컴퓨터 사이의 데이터 흐름을 제공 ex) TCP, UDP
             3. 네트워크(또는 인터넷) - 네트워크 상에서 패킷의 이동
             4. 링크(또는 데이터 링크, 네트워크 인터페이스) - 네트워크에 접속하는 하드웨어 ex) 디바이스 드라이버, 네트워크 인터페이스 카드, 케이블
-    3. URI와 URL ex) http://user:pass@www.example.jp:80/dir/index.htm?uid=1#ch1
+###    3. URI와 URL ex) http://user:pass@www.example.jp:80/dir/index.htm?uid=1#ch1
         1. 스키마 - Identifier http://
         2. 자격정보(크레덴셜) - user:pass
         3. 서버 주소 - www.example.jp
